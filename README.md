@@ -1,8 +1,8 @@
 # Lab Session II: Big Data Storage, Query, and Parallel Recommendation System Experiment
 
 ## I. Experimental Objectives
-(1) To understand the methods of big data storage and query, master the use of Hadoop and MongoDB, and comprehend the pros and cons of different storage systems in big data processing.
-(2) To learn the principles and implementation of parallel recommendation systems, grasp the MapReduce programming model, and be able to implement a parallel user-based collaborative filtering recommendation algorithm on the Hadoop platform.
+1. To understand the methods of big data storage and query, master the use of Hadoop and MongoDB, and comprehend the pros and cons of different storage systems in big data processing.
+2. To learn the principles and implementation of parallel recommendation systems, grasp the MapReduce programming model, and be able to implement a parallel user-based collaborative filtering recommendation algorithm on the Hadoop platform.
 
 ## II. Experimental Content
 1. Install and configure Hadoop and MongoDB.
